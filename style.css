@@ -1,6 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.small-font{
+    font-size: 13px;
+    font-weight:300;
+}
 .header-background{
     background: #264653;
 
