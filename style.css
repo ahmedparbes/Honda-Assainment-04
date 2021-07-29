@@ -9,6 +9,11 @@ body{
     background: #E76F51;
 
 }
+
+.gray-image{
+    filter: grayscale(100%);
+   }
+
 .star-color{
     color: #E77C40;
 
